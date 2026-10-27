@@ -1,0 +1,1540 @@
+{
+  "meta": {
+    "title": "Frankenstein, Volumes 1 and 2 (1818 text, pp. 7-111)",
+    "note": "All content was written from memory of the novel and is NOT verified against the student's edition. Every item has verified=false until a person checks it.",
+    "generated": "2026-10-26"
+  },
+  "passages": {
+    "passage-a": {
+      "title": "The creature to Victor on Montanvert",
+      "text": "\"I ought to be thy Adam, but I am rather the fallen angel, whom thou drivest from joy for no misdeed. Everywhere I see bliss, from which I alone am irrevocably excluded. I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.\""
+    },
+    "passage-b": {
+      "title": "Victor to Walton",
+      "text": "\"Learn from me, if not by my precepts, at least by my example, how dangerous is the acquirement of knowledge, and how much happier that man is who believes his native town to be the world, than he who aspires to become greater than his nature will allow.\""
+    },
+    "passage-c": {
+      "title": "Victor on the creature as his vampire",
+      "text": "\"I considered the being whom I had cast among mankind, and endowed with the will and power to effect purposes of horror, such as the deed which he had now done, nearly in the light of my own vampire, my own spirit let loose from the grave, and forced to destroy all that was dear to me.\""
+    },
+    "passage-d": {
+      "title": "The creature's first memories",
+      "text": "\"It is with considerable difficulty that I remember the original aera of my being: all the events of that period appear confused and indistinct. A strange multiplicity of sensations seized me, and I saw, felt, heard, and smelt, at the same time; and it was, indeed, a long time before I learned to distinguish between the operations of my various senses.\""
+    }
+  },
+  "questions": [
+    {
+      "id": "pr-p1-01",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Walton's letters at the start of the novel are addressed to whom?",
+      "answer": "His sister, Margaret Saville",
+      "distractors": [
+        "Elizabeth Lavenza",
+        "His mother",
+        "Henry Clerval"
+      ],
+      "tags": [
+        "frame",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-02",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What is Walton's goal as he sails north?",
+      "answer": "To reach the North Pole and make a great discovery",
+      "distractors": [
+        "To find Victor Frankenstein",
+        "To escape his debts",
+        "To hunt whales for profit"
+      ],
+      "tags": [
+        "frame"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-03",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "At which university does Victor study natural philosophy and chemistry?",
+      "answer": "Ingolstadt",
+      "distractors": [
+        "Geneva",
+        "Oxford",
+        "Paris"
+      ],
+      "tags": [
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-04",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Which professor encourages Victor's interest in chemistry and modern science?",
+      "answer": "M. Waldman",
+      "distractors": [
+        "M. Krempe",
+        "Alphonse Frankenstein",
+        "Mr. Kirwin"
+      ],
+      "tags": [
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-05",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Who is Henry Clerval?",
+      "answer": "Victor's close friend who nurses him through his illness",
+      "distractors": [
+        "A professor at Ingolstadt",
+        "Victor's youngest brother",
+        "The magistrate at Justine's trial"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-06",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Who is Justine Moritz?",
+      "answer": "A young servant raised in the Frankenstein household and accused of William's murder",
+      "distractors": [
+        "Victor's cousin and fiancee",
+        "Elizabeth's older sister",
+        "Safie's maid"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early",
+        "de-laceys",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-07",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What evidence leads to Justine's accusation?",
+      "answer": "William's locket is found in the pocket of her dress",
+      "distractors": [
+        "A bloody knife is found in her room",
+        "An eyewitness saw her strangle William",
+        "She writes a letter admitting guilt"
+      ],
+      "tags": [
+        "justine-trial",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-08",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Why does Justine falsely confess?",
+      "answer": "Her confessor threatens her with excommunication",
+      "distractors": [
+        "She wants to protect Elizabeth",
+        "She truly believes she is guilty",
+        "She hopes Victor will pardon her"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-09",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Why does Victor stay silent at Justine's trial about what he knows?",
+      "answer": "He fears no one would believe him and would think him mad",
+      "distractors": [
+        "He is not sure the creature exists",
+        "He is angry at Justine",
+        "The creature has threatened his father"
+      ],
+      "tags": [
+        "justine-trial"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-10",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Who says: \"Do your duty towards me, and I will do mine towards you and the rest of mankind\"?",
+      "answer": "The creature, to Victor",
+      "distractors": [
+        "Victor, to Walton",
+        "Alphonse, to Victor",
+        "Felix, to Safie"
+      ],
+      "tags": [
+        "frame",
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-11",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Who is Safie?",
+      "answer": "A young woman who comes to the De Laceys because she loves Felix",
+      "distractors": [
+        "Agatha's friend who hides the creature",
+        "The blind man's wife",
+        "A servant of the Frankensteins"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-12",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does the creature secretly help the De Laceys?",
+      "answer": "He gathers firewood and clears snow for them",
+      "distractors": [
+        "He leaves food at their door",
+        "He repairs their roof",
+        "He sends them money"
+      ],
+      "tags": [
+        "de-laceys",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-13",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Which member of the De Lacey family does NOT flee in fear when first meeting the creature?",
+      "answer": "The blind old man, De Lacey",
+      "distractors": [
+        "Felix",
+        "Agatha",
+        "Safie"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-14",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Which book leads the creature to compare himself to both Adam and Satan?",
+      "answer": "Paradise Lost",
+      "distractors": [
+        "Plutarch's Lives",
+        "The Sorrows of Werter",
+        "Ruins of Empires"
+      ],
+      "tags": [
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-15",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What does the creature demand that Victor make for him?",
+      "answer": "A female companion",
+      "distractors": [
+        "A home in Geneva",
+        "A cure for his appearance",
+        "A new body"
+      ],
+      "tags": [
+        "demand"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p1-16",
+      "set": "practice",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Which writers fascinate Victor as a boy, only to be dismissed by his father?",
+      "answer": "Cornelius Agrippa, Paracelsus, and Albertus Magnus",
+      "distractors": [
+        "Newton, Galileo, and Bacon",
+        "Milton, Plutarch, and Goethe",
+        "Locke, Voltaire, and Rousseau"
+      ],
+      "tags": [
+        "victor-early",
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-17",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does Victor flee from his laboratory right after the creature comes to life?",
+      "answer": "The creature's appearance fills him with horror and disgust, shattering his dream",
+      "distractors": [
+        "He fears the creature will attack him",
+        "He runs to get Clerval's help",
+        "He believes his experiment failed to create life"
+      ],
+      "tags": [
+        "victor-early",
+        "creation"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-18",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "After Justine's execution, Victor travels to Chamounix and the Alps. What does this setting do in the story?",
+      "answer": "Nature's grandeur gives him brief relief from his guilt",
+      "distractors": [
+        "It reminds him of Elizabeth",
+        "It is where he plans to build a second creature",
+        "It is a place to hide from the creature"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early",
+        "alps"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-19",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "The creature decides to stop stealing food from the cottagers. What does this show about him?",
+      "answer": "He feels sympathy and realizes his actions make them suffer",
+      "distractors": [
+        "He is afraid of being caught",
+        "He no longer needs to eat",
+        "He wants to starve himself"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-20",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does the creature wait until only old De Lacey is home to introduce himself?",
+      "answer": "The old man is blind and cannot judge him by his appearance",
+      "distractors": [
+        "The old man is the weakest and easiest to overpower",
+        "He wants to steal something from the cottage",
+        "He believes De Lacey knows Victor"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-21",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "What is the effect of the creature seeing his own reflection in a pool?",
+      "answer": "He understands why humans fear him and feels ashamed",
+      "distractors": [
+        "He feels proud of his strength",
+        "He decides to disguise himself",
+        "He decides to return to Victor"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-22",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does the creature see himself in both Adam and Satan?",
+      "answer": "Like Adam he was made by a creator, but he is abandoned and feels envy like Satan",
+      "distractors": [
+        "Both were punished for stealing fire",
+        "Both were raised by a loving family",
+        "Both were rescued by their creators"
+      ],
+      "tags": [
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-23",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does the creature kill William and frame Justine?",
+      "answer": "To take revenge on Victor and his family, driven by rage at being rejected",
+      "distractors": [
+        "William attacked him first",
+        "He was trying to rescue William",
+        "Justine had harmed him earlier"
+      ],
+      "tags": [
+        "justine-trial",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p2-24",
+      "set": "practice",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does Shelley frame Victor's story with Walton's letters?",
+      "answer": "Walton's ambition mirrors Victor's, and Victor's story warns of its cost",
+      "distractors": [
+        "To prove the creature is real",
+        "To show Walton is a better scientist than Victor",
+        "To explain how the creature learned language"
+      ],
+      "tags": [
+        "frame"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-25",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-a",
+      "prompt": "Who is speaking, and to whom?",
+      "answer": "The creature, to Victor",
+      "distractors": [
+        "Victor, to Walton",
+        "The creature, to old De Lacey",
+        "Victor, to Clerval"
+      ],
+      "tags": [
+        "frame",
+        "victor-early",
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-26",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-a",
+      "prompt": "What is the creature arguing by comparing himself to Adam and the fallen angel?",
+      "answer": "Victor, as his creator, has failed in his duty and made him miserable",
+      "distractors": [
+        "He deserves to be punished like Satan",
+        "He wants to be worshipped as a god",
+        "He hopes to be forgiven by God"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-27",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-a",
+      "prompt": "What does \"misery made me a fiend\" suggest?",
+      "answer": "His cruelty comes from how he has been treated, not from his nature",
+      "distractors": [
+        "He was born evil",
+        "He enjoys being a fiend",
+        "He was never good"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-28",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-a",
+      "prompt": "In this passage, \"irrevocably\" most nearly means:",
+      "answer": "In a way that cannot be undone",
+      "distractors": [
+        "Temporarily",
+        "Willingly",
+        "Secretly"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-29",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-b",
+      "prompt": "Who is speaking, and to whom?",
+      "answer": "Victor, to Walton",
+      "distractors": [
+        "The creature, to Victor",
+        "Alphonse, to Victor",
+        "Victor, to Elizabeth"
+      ],
+      "tags": [
+        "frame",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-30",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-b",
+      "prompt": "What is the main warning in this passage?",
+      "answer": "Ambition that goes beyond human limits leads to ruin",
+      "distractors": [
+        "Knowledge should never be taught in schools",
+        "Travel is more dangerous than study",
+        "Only the old should seek knowledge"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-31",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-b",
+      "prompt": "What does \"believes his native town to be the world\" suggest?",
+      "answer": "Contentment with a small, ordinary life can bring more happiness",
+      "distractors": [
+        "Everyone should live in Geneva",
+        "Education is a waste of time",
+        "The world is smaller than people think"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "pr-p3-32",
+      "set": "practice",
+      "part": 3,
+      "passageId": "passage-b",
+      "prompt": "Why is it fitting that Victor says this to this listener?",
+      "answer": "Walton shares Victor's ambition and is risking his own life for glory",
+      "distractors": [
+        "Walton has given up exploring",
+        "Walton is Victor's close relative",
+        "Walton has just met the creature"
+      ],
+      "tags": [
+        "frame"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-33",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What do Walton's crew see on the ice shortly before they find Victor?",
+      "answer": "A sledge drawn by dogs and driven by a figure of gigantic size",
+      "distractors": [
+        "A second expedition ship sending signals of distress",
+        "A lone traveler waving a flag from a floating iceberg",
+        "A frozen ship with its crew missing from the deck"
+      ],
+      "tags": [
+        "frame"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-34",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What event first makes fifteen-year-old Victor doubt the old alchemists and turn toward modern science?",
+      "answer": "Lightning destroys an oak tree near his family's country home",
+      "distractors": [
+        "A fire destroys the library of his father's house",
+        "Elizabeth falls gravely ill with a sudden fever",
+        "A visiting professor mocks the books he is reading"
+      ],
+      "tags": [
+        "victor-early",
+        "books",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-35",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does Caroline Frankenstein die?",
+      "answer": "Of scarlet fever, caught while nursing Elizabeth",
+      "distractors": [
+        "Of a fever, caught while nursing Justine",
+        "Of grief, after the loss of her youngest son",
+        "Of an injury, after a carriage accident near Geneva"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-36",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Which dream torments Victor right after the creature first opens its eyes?",
+      "answer": "Elizabeth turns into the corpse of his dead mother in his arms",
+      "distractors": [
+        "The creature strangles William before his eyes",
+        "Justine is led to the scaffold while he watches",
+        "He is lost on a frozen sea with no way home"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early",
+        "creation",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-37",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does M. Krempe react when Victor says he has read Agrippa and Paracelsus?",
+      "answer": "He says Victor has wasted his time and must start his studies over",
+      "distractors": [
+        "He praises Victor's curiosity and invites him to join his lab",
+        "He reports Victor to the university for studying forbidden books",
+        "He lends Victor his own books on alchemy to continue reading"
+      ],
+      "tags": [
+        "victor-early",
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-38",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does Victor learn that William has been murdered?",
+      "answer": "A letter from his father",
+      "distractors": [
+        "A visit from Henry Clerval at Ingolstadt",
+        "A letter from Elizabeth, written from Belrive",
+        "A report from a magistrate in Geneva"
+      ],
+      "tags": [
+        "victor-early",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-39",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Where does Victor first come to suspect the creature killed William?",
+      "answer": "Near Geneva at night, when a flash of lightning reveals a gigantic figure",
+      "distractors": [
+        "At the scene of the murder, when he sees the body",
+        "In a dream, on the night before his return to Geneva",
+        "At Justine's trial, when she names the creature"
+      ],
+      "tags": [
+        "justine-trial",
+        "william",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-40",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Who says: \"Alas! Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness?\"",
+      "answer": "Elizabeth",
+      "distractors": [
+        "Justine",
+        "Clerval",
+        "Victor's father"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-41",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "In his story, the creature repeats the words of a boy who says his father is a syndic named Frankenstein. Who is the boy, and why does this matter?",
+      "answer": "William; it tells the creature the boy is part of Victor's family",
+      "distractors": [
+        "Felix; it tells the creature the cottagers know Victor",
+        "Ernest; it tells the creature Victor lives in the mountains",
+        "William; it tells the creature the boy is Justine's brother"
+      ],
+      "tags": [
+        "justine-trial",
+        "de-laceys",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-42",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "What does the creature do with William's locket?",
+      "answer": "Plants it in the folds of Justine's dress while she sleeps",
+      "distractors": [
+        "Throws it into a lake to hide the crime",
+        "Returns it to Victor as proof of his power",
+        "Hides it in the hovel beside the De Laceys' cottage"
+      ],
+      "tags": [
+        "justine-trial",
+        "de-laceys",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-43",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does the creature react the first time he discovers fire?",
+      "answer": "He feels delight at its warmth, then pain after touching the flame",
+      "distractors": [
+        "He feels fear and flees deeper into the forest",
+        "He feels indifference until the cold drives him back",
+        "He feels anger and tries to stamp it out"
+      ],
+      "tags": [
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-44",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Where does the creature find the books that shape his view of the world?",
+      "answer": "In a leather portmanteau left in a wood",
+      "distractors": [
+        "In Victor's laboratory, in the pockets of his coat",
+        "In the De Laceys' cottage, while the family is away",
+        "In a village library, after dark"
+      ],
+      "tags": [
+        "creation",
+        "de-laceys",
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-45",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "How does the creature learn the details of his own creation?",
+      "answer": "He reads a journal in the pocket of the coat he took from Victor's lab",
+      "distractors": [
+        "Safie explains it to him as part of her lessons",
+        "Old De Lacey tells him after hearing his story",
+        "He finds Victor's letters in Felix's possession"
+      ],
+      "tags": [
+        "creation",
+        "de-laceys",
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-46",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "Why is Safie's father imprisoned in Paris?",
+      "answer": "He is a Turkish merchant condemned partly because of his religion and wealth",
+      "distractors": [
+        "He is a French noble arrested for unpaid debts",
+        "He is an Arab sailor accused of piracy at sea",
+        "He is a Genevese magistrate accused of fraud"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p1-47",
+      "set": "challenge",
+      "part": 1,
+      "passageId": null,
+      "prompt": "In his speech on Montanvert, what does the creature say he is, in contrast to Adam?",
+      "answer": "The fallen angel",
+      "distractors": [
+        "The wandering exile",
+        "The prodigal son",
+        "The sleeping giant"
+      ],
+      "tags": [
+        "alps"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-48",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Elizabeth says she feels as if she is walking on the edge of a precipice. What does this suggest?",
+      "answer": "Justine's fate shows that innocence is no protection, so no one feels safe",
+      "distractors": [
+        "She suspects that Victor is hiding something from her",
+        "She wants to leave Geneva and return to Italy",
+        "She is afraid of the mountains near the lake"
+      ],
+      "tags": [
+        "justine-trial",
+        "victor-early"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-49",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does Shelley let the creature tell his own story?",
+      "answer": "To make readers see him as a thinking, feeling being instead of a simple monster",
+      "distractors": [
+        "To prove that Victor's account is completely false",
+        "To show that the creature is stronger than Victor",
+        "To lighten the mood after Justine's trial"
+      ],
+      "tags": [
+        "justine-trial"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-50",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why does the creature stop stealing food from the cottagers?",
+      "answer": "He realizes his thefts deepen their poverty and he feels pity for them",
+      "distractors": [
+        "He fears that Felix will catch him in the act",
+        "He finds enough berries and roots in the forest",
+        "Old De Lacey asks him to stop"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-51",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Lightning appears again and again around Victor (the oak, the storm over Geneva). What does it suggest?",
+      "answer": "Knowledge and power can be destructive, which foreshadows the violence to come",
+      "distractors": [
+        "Nature is on Victor's side and guides him",
+        "Victor is protected by his mother's memory",
+        "Storms mirror Elizabeth's fear of the mountains"
+      ],
+      "tags": [
+        "victor-early",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-52",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why is it significant that old De Lacey is the only one who listens kindly to the creature?",
+      "answer": "He is blind, which shows that prejudice rests on appearance",
+      "distractors": [
+        "He is the oldest, and so the wisest of the family",
+        "He is the only one who has ever met Victor",
+        "He is the only one who speaks the creature's language"
+      ],
+      "tags": [
+        "de-laceys"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-53",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "What does the creature's reaction to Paradise Lost reveal?",
+      "answer": "He sees himself as an abandoned creation who feels envy like Satan",
+      "distractors": [
+        "He believes he is destined for heaven",
+        "He decides that books are not to be trusted",
+        "He decides to become a teacher to humankind"
+      ],
+      "tags": [
+        "creation",
+        "books"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-54",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "What is the effect of the creature burning the De Lacey cottage?",
+      "answer": "It marks his shift from hoping for acceptance to vowing revenge on humanity",
+      "distractors": [
+        "It shows he wants to hide his tracks from Victor",
+        "It is an accident that happens while he cooks",
+        "It shows regret for taking the family's firewood"
+      ],
+      "tags": [
+        "de-laceys",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p2-55",
+      "set": "challenge",
+      "part": 2,
+      "passageId": null,
+      "prompt": "Why is the subtitle \"The Modern Prometheus\" fitting for Victor?",
+      "answer": "Like Prometheus, he oversteps human limits to create life and is punished for it",
+      "distractors": [
+        "Like Prometheus, he is rescued from his punishment by a god",
+        "Like Prometheus, he sails to the edge of the known world",
+        "Like Prometheus, he destroys what he has created"
+      ],
+      "tags": [
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-56",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-c",
+      "prompt": "What does \"my own vampire\" suggest about Victor's view of the creature?",
+      "answer": "The creature is a destructive force tied to Victor himself and fed by his guilt",
+      "distractors": [
+        "The creature drinks blood and must be hunted",
+        "The creature is the ghost of Victor's mother",
+        "The creature is a danger only to strangers"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-57",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-c",
+      "prompt": "What does \"cast among mankind\" imply about Victor's actions?",
+      "answer": "Victor is responsible for releasing a danger into the world",
+      "distractors": [
+        "He carefully introduced the creature to society",
+        "He banished the creature from Geneva by law",
+        "He hoped mankind would welcome the creature"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-58",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-c",
+      "prompt": "Which \"deed\" is Victor referring to?",
+      "answer": "The murder of William",
+      "distractors": [
+        "The execution of Justine",
+        "The death of his mother",
+        "The creature's attack on Felix"
+      ],
+      "tags": [
+        "justine-trial",
+        "de-laceys",
+        "william"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-59",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-c",
+      "prompt": "Which phrase best describes Victor's tone in this passage?",
+      "answer": "Dread mixed with guilt",
+      "distractors": [
+        "Calm pride",
+        "Hopeful determination",
+        "Cheerful curiosity"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-60",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-d",
+      "prompt": "What does \"a strange multiplicity of sensations\" convey?",
+      "answer": "The creature is overwhelmed because he cannot yet tell his senses apart",
+      "distractors": [
+        "The creature is in great physical pain",
+        "The creature is enjoying a feeling of power",
+        "The creature is confused by Victor's words"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-61",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-d",
+      "prompt": "In this passage, \"original aera of my being\" most nearly means:",
+      "answer": "The very beginning of his existence",
+      "distractors": [
+        "His earliest memory of Victor's face",
+        "The place where he was created",
+        "His first friendship with a human"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-62",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-d",
+      "prompt": "Why does Shelley begin the creature's story with this confusion?",
+      "answer": "To show him as newborn and innocent, shaped by experience rather than born evil",
+      "distractors": [
+        "To suggest he has a damaged mind",
+        "To hint that he has supernatural powers",
+        "To prove that Victor's science failed"
+      ],
+      "tags": [
+        "general"
+      ],
+      "explanation": null,
+      "verified": false
+    },
+    {
+      "id": "ch-p3-63",
+      "set": "challenge",
+      "part": 3,
+      "passageId": "passage-d",
+      "prompt": "Which later event most closely echoes this passage's theme of learning through the senses?",
+      "answer": "He burns his hand reaching toward a fire",
+      "distractors": [
+        "He reads Paradise Lost in the forest",
+        "Safie arrives at the cottage",
+        "He meets William near Geneva"
+      ],
+      "tags": [
+        "de-laceys",
+        "books",
+        "william",
+        "lightning-fire"
+      ],
+      "explanation": null,
+      "verified": false
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q01",
+      "text": "It was on a dreary night of November that I beheld the accomplishment of my toils.",
+      "speaker": "Victor",
+      "listener": "Walton",
+      "context": "The creation scene, told to Walton.",
+      "verified": false
+    },
+    {
+      "id": "q02",
+      "text": "Learn from me, if not by my precepts, at least by my example, how dangerous is the acquirement of knowledge.",
+      "speaker": "Victor",
+      "listener": "Walton",
+      "context": "A warning against ambition beyond human limits.",
+      "verified": false
+    },
+    {
+      "id": "q03",
+      "text": "I considered the being whom I had cast among mankind ... nearly in the light of my own vampire.",
+      "speaker": "Victor",
+      "listener": null,
+      "context": "He knows the creature killed William and blames himself.",
+      "verified": false
+    },
+    {
+      "id": "q04",
+      "text": "Alas! Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness?",
+      "speaker": "Elizabeth",
+      "listener": "Victor",
+      "context": "After Justine is condemned.",
+      "verified": false
+    },
+    {
+      "id": "q05",
+      "text": "Do your duty towards me, and I will do mine towards you and the rest of mankind.",
+      "speaker": "The creature",
+      "listener": "Victor",
+      "context": "On Montanvert, when he asks Victor to hear his story.",
+      "verified": false
+    },
+    {
+      "id": "q06",
+      "text": "I ought to be thy Adam, but I am rather the fallen angel, whom thou drivest from joy for no misdeed.",
+      "speaker": "The creature",
+      "listener": "Victor",
+      "context": "He says Victor has failed his duty as a creator.",
+      "verified": false
+    },
+    {
+      "id": "q07",
+      "text": "I was benevolent and good; misery made me a fiend.",
+      "speaker": "The creature",
+      "listener": "Victor",
+      "context": "He argues that his cruelty comes from how he was treated.",
+      "verified": false
+    },
+    {
+      "id": "q08",
+      "text": "I only wonder that at that moment, instead of venting my sensations in exclamations and agony, I did not rush among mankind, and perish in an attempt to destroy them.",
+      "speaker": "The creature",
+      "listener": null,
+      "context": "After seeing the portrait in William's locket.",
+      "verified": false
+    }
+  ],
+  "speakerPool": [
+    "Victor",
+    "The creature",
+    "Elizabeth",
+    "Walton",
+    "Alphonse",
+    "Clerval",
+    "Justine",
+    "Felix",
+    "Old De Lacey",
+    "Safie"
+  ],
+  "timeline": [
+    {
+      "id": "t01",
+      "text": "Walton writes to his sister from the Arctic",
+      "order": 1
+    },
+    {
+      "id": "t02",
+      "text": "Walton's crew sees a giant figure on a sledge",
+      "order": 2
+    },
+    {
+      "id": "t03",
+      "text": "Walton rescues Victor from the ice",
+      "order": 3
+    },
+    {
+      "id": "t04",
+      "text": "Victor reads Agrippa, Paracelsus, and Albertus Magnus",
+      "order": 4
+    },
+    {
+      "id": "t05",
+      "text": "Lightning destroys the oak tree",
+      "order": 5
+    },
+    {
+      "id": "t06",
+      "text": "Caroline dies of scarlet fever",
+      "order": 6
+    },
+    {
+      "id": "t07",
+      "text": "Victor studies with Krempe and Waldman at Ingolstadt",
+      "order": 7
+    },
+    {
+      "id": "t08",
+      "text": "Victor brings the creature to life on a November night",
+      "order": 8
+    },
+    {
+      "id": "t09",
+      "text": "Victor flees and falls ill, and Clerval nurses him",
+      "order": 9
+    },
+    {
+      "id": "t10",
+      "text": "Victor receives the letter about William's murder",
+      "order": 10
+    },
+    {
+      "id": "t11",
+      "text": "Victor sees the creature in a flash of lightning near Geneva",
+      "order": 11
+    },
+    {
+      "id": "t12",
+      "text": "Justine falsely confesses and is executed",
+      "order": 12
+    },
+    {
+      "id": "t13",
+      "text": "Victor meets the creature on Montanvert",
+      "order": 13
+    },
+    {
+      "id": "t14",
+      "text": "The creature discovers fire and is chased from a village",
+      "order": 14
+    },
+    {
+      "id": "t15",
+      "text": "The creature finds the hovel and watches the De Laceys",
+      "order": 15
+    },
+    {
+      "id": "t16",
+      "text": "The creature gathers firewood and sees his reflection",
+      "order": 16
+    },
+    {
+      "id": "t17",
+      "text": "Safie arrives at the cottage",
+      "order": 17
+    },
+    {
+      "id": "t18",
+      "text": "The creature finds the books and Victor's journal",
+      "order": 18
+    },
+    {
+      "id": "t19",
+      "text": "Felix beats the creature and the family leaves the cottage",
+      "order": 19
+    },
+    {
+      "id": "t20",
+      "text": "The creature burns the cottage and swears revenge",
+      "order": 20
+    },
+    {
+      "id": "t21",
+      "text": "The creature saves a girl and is shot",
+      "order": 21
+    },
+    {
+      "id": "t22",
+      "text": "The creature kills William and frames Justine",
+      "order": 22
+    },
+    {
+      "id": "t23",
+      "text": "The creature demands a female companion",
+      "order": 23
+    }
+  ],
+  "characters": [
+    {
+      "id": "c01",
+      "name": "Victor Frankenstein",
+      "role": "Narrator of the main story and creator of the creature",
+      "notes": "Ambitious, then guilty and secretive. Abandons his creation and stays silent about it. Compared to Prometheus.",
+      "verified": false
+    },
+    {
+      "id": "c02",
+      "name": "The creature",
+      "role": "Victor's creation, who is never given a name",
+      "notes": "Starts out innocent and kind. Rejection turns him bitter. Educated by watching the De Laceys and by reading.",
+      "verified": false
+    },
+    {
+      "id": "c03",
+      "name": "Robert Walton",
+      "role": "Arctic explorer who frames the story",
+      "notes": "His ambition mirrors Victor's. He writes to his sister, Margaret Saville.",
+      "verified": false
+    },
+    {
+      "id": "c04",
+      "name": "Alphonse Frankenstein",
+      "role": "Victor's father",
+      "notes": "Dismisses Agrippa without explaining. Writes the letter about William.",
+      "verified": false
+    },
+    {
+      "id": "c05",
+      "name": "Caroline Beaufort",
+      "role": "Victor's mother",
+      "notes": "Takes in Elizabeth and Justine. Dies of scarlet fever caught from Elizabeth.",
+      "verified": false
+    },
+    {
+      "id": "c06",
+      "name": "Elizabeth Lavenza",
+      "role": "Victor's cousin and future wife",
+      "notes": "Writes to Victor. Defends Justine and is shaken by her death.",
+      "verified": false
+    },
+    {
+      "id": "c07",
+      "name": "Henry Clerval",
+      "role": "Victor's close friend",
+      "notes": "Nurses Victor through his illness.",
+      "verified": false
+    },
+    {
+      "id": "c08",
+      "name": "William",
+      "role": "Victor's youngest brother",
+      "notes": "Killed by the creature, who takes his locket.",
+      "verified": false
+    },
+    {
+      "id": "c09",
+      "name": "Ernest",
+      "role": "Victor's other younger brother",
+      "notes": "A minor character.",
+      "verified": false
+    },
+    {
+      "id": "c10",
+      "name": "Justine Moritz",
+      "role": "Servant raised in the Frankenstein household",
+      "notes": "Falsely accused of William's murder and executed. Confesses under pressure from her confessor.",
+      "verified": false
+    },
+    {
+      "id": "c11",
+      "name": "M. Krempe",
+      "role": "Professor at Ingolstadt",
+      "notes": "Scorns Victor's old reading.",
+      "verified": false
+    },
+    {
+      "id": "c12",
+      "name": "M. Waldman",
+      "role": "Professor at Ingolstadt",
+      "notes": "Encourages Victor's interest in chemistry and modern science.",
+      "verified": false
+    },
+    {
+      "id": "c13",
+      "name": "Old De Lacey",
+      "role": "Blind father in the cottage",
+      "notes": "The only one who listens kindly to the creature, because he cannot see him.",
+      "verified": false
+    },
+    {
+      "id": "c14",
+      "name": "Felix and Agatha",
+      "role": "De Lacey's son and daughter",
+      "notes": "Felix beats the creature. Agatha faints.",
+      "verified": false
+    },
+    {
+      "id": "c15",
+      "name": "Safie",
+      "role": "Turkish merchant's daughter who loves Felix",
+      "notes": "Her arrival lets the creature learn language and the family's history.",
+      "verified": false
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v01",
+      "word": "ardent",
+      "definition": "Passionate and intense; showing strong enthusiasm or devotion",
+      "inClass": true
+    },
+    {
+      "id": "v02",
+      "word": "capitulate",
+      "definition": "To give in or surrender, often after resisting",
+      "inClass": true
+    },
+    {
+      "id": "v03",
+      "word": "chimera",
+      "definition": "A mythical creature made of parts of different animals; also a wild or impossible fantasy",
+      "inClass": true
+    },
+    {
+      "id": "v04",
+      "word": "inclemency",
+      "definition": "Harshness of weather; stormy or severe conditions",
+      "inClass": true
+    },
+    {
+      "id": "v05",
+      "word": "sublime",
+      "definition": "Inspiring awe through vast, powerful beauty, often mixed with fear",
+      "inClass": true
+    }
+  ]
+}

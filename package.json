@@ -1,0 +1,13 @@
+{
+  "name": "galvanize",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Galvanize: a Frankenstein study race. Static web app, no build step.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check-content": "node scripts/check-content.mjs data/content.json",
+    "serve": "python3 -m http.server 8765 --bind 127.0.0.1"
+  },
+  "license": "UNLICENSED"
+}
