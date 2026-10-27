@@ -2,6 +2,8 @@
 
 A Frankenstein study race for the English II exam on Volumes 1 and 2. A static web app: open the link on a phone, no sign-up, nothing collected. Progress is stored in the browser on each device.
 
+Live at https://jordanpaya.github.io/frankenstein-study/
+
 ## Running it locally
 
 Any static file server works. From this folder:
